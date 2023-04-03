@@ -6,7 +6,7 @@ _incluir, recuperar, consultar e alterar_ dados em um banco de dados. </br>
 
 </br>
 
-# Por que usar DBMS? 
+## Por que usar DBMS? 
 
 * A manuntenção torna-se mais simples
 * Mais produtividade aos desenvolvedores
