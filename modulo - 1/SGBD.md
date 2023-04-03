@@ -1,1 +1,0 @@
-# SGBD - Sistema de Gerencimanto de Banco de Dados
