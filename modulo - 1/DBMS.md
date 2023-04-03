@@ -11,6 +11,12 @@ Para encontrar um livro específico, você possui duas opções, começar a proc
 
 </br>
 
+## ACID 
+ACID é um acrônimo que representa as características essenciais que garantem a consistência, integridade e confiabilidade das transações em um sistema de gerenciamento de bancos de dados.
+
+
+</br>
+
 ## Por que usar DBMS? 
 
 * Segurança (é possível saber quem alterou, incluiu ou removeu dados do banco de dados) 
