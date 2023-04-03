@@ -13,6 +13,7 @@ Para encontrar um livro específico, você possui duas opções, começar a proc
 
 ## Por que usar DBMS? 
 
+* Segurança (é possível saber quem alterou, incluiu ou removeu dados do banco de dados) 
 * A manuntenção torna-se mais simples
 * Mais produtividade aos desenvolvedores
 
