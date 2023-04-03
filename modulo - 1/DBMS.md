@@ -8,6 +8,7 @@ Você está diante de uma enorme biblioteca, podemos pensar que a biblioteca é 
 Esta biblioca possui diversos livros, de diferentes cateogirias e autores. </br>
 Para encontrar um livro específico, você possui duas opções, começar a procurar ou pedir ajuda a bibliotecária, que seberá exatamente onde se encontrar a estante que possui a categoria do livro. </br> Perceba que a bibliotecária é como se fosse um DBMS, pois para encontrar um livro específico, você irá precisar da ajuda dela, e quando você for incluir livros (devolver eles) você também irá precisar da ajuda dela. 
 
+![851a8c34a0d51bea16612f9cb9afe646](https://user-images.githubusercontent.com/98475125/229521141-0ff9fe44-1635-40d9-9036-722fcae1e506.jpg)
 
 </br>
 
