@@ -41,7 +41,7 @@ Portanto, é altamente __recomendável__ usar um DBMS para gerenciar um banco de
 ## ACID 
 ACID é um acrônimo que representa as características essenciais que garantem a consistência, integridade e confiabilidade das transações em um sistema de gerenciamento de bancos de dados.
 
-</br
+</br>
 
 __Atomicidade (Atomicity):__ garante que uma transação seja tratada como uma única unidade indivisível de trabalho. Se uma parte da transação falhar, toda a transação é revertida para o seu estado anterior. Ou seja, todas as operações da transação devem ser executadas com sucesso ou nenhuma delas deve ser executada.
 
