@@ -10,6 +10,8 @@ Para encontrar um livro específico, você possui duas opções, começar a proc
 
 <<<<<<< HEAD
 
+=======
+>>>>>>> 6eba442e66a6c97c5482ed14f1c08975fe7981d1
 </br>
 
 ## Por que usar DBMS? 
