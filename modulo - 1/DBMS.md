@@ -1,10 +1,12 @@
 # DBMS - Date Base Manage System
 
-É um software que nos permite ter um gerenciamento ao nosso banco de dados atráves de uma interface. O DBMS nos permite </br>
+É um software para nós, os desenvolvedores, gerenciarmos nosso banco de dados através de uma interface gráfica boa e organizada. Através desta interface, O DBMS nos permite </br>
 _incluir, recuperar, consultar e alterar_ dados em um banco de dados. </br>
 
 
 </br>
+
+# Por que usar DBMS? 
 
 * A manuntenção torna-se mais simples
 * Mais produtividade aos desenvolvedores
