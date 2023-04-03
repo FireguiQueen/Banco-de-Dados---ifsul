@@ -45,7 +45,7 @@ ACID é um acrônimo que representa as características essenciais que garantem 
 
 __Atomicidade (Atomicity):__ garante que uma transação seja tratada como uma única unidade indivisível de trabalho. Se uma parte da transação falhar, toda a transação é revertida para o seu estado anterior. Ou seja, todas as operações da transação devem ser executadas com sucesso ou nenhuma delas deve ser executada.
 
-__Consistência (Consistency):__ garante que uma transação leve o banco de dados de um estado válido para outro estado válido. Ou seja, as regras de integridade dos dados devem ser preservadas antes e depois de uma transação.
+__Consistência (Consistency):__ garante que uma transação leve o banco de dados de um estado válido para outro estado válido. Ou seja, os dados devem obedecer as regras do banco.. Por exemplo, você não deve conseguir colocar um dado do tipo texto em um campo que pede dados de números inteiros.
 
 __Isolamento (Isolation):__ garante que várias transações possam ocorrer simultaneamente, sem que elas interfiram umas nas outras. Ou seja, as transações devem ser executadas de forma isolada, sem afetar outras transações em andamento.
 
