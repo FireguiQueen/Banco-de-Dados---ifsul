@@ -8,13 +8,6 @@ Você está diante de uma enorme biblioteca, podemos pensar que a biblioteca é 
 Esta biblioca possui diversos livros, de diferentes cateogirias e autores. </br>
 Para encontrar um livro específico, você possui duas opções, começar a procurar ou pedir ajuda a bibliotecária, que seberá exatamente onde se encontrar a estante que possui a categoria do livro. </br> Perceba que a bibliotecária é como se fosse um DBMS, pois para encontrar um livro específico, você irá precisar da ajuda dela, e quando você for incluir livros (devolver eles) você também irá precisar da ajuda dela. 
 
-
-</br>
-
-## ACID 
-ACID é um acrônimo que representa as características essenciais que garantem a consistência, integridade e confiabilidade das transações em um sistema de gerenciamento de bancos de dados.
-
-
 </br>
 
 ## Por que usar DBMS? 
@@ -37,3 +30,20 @@ Portanto, é altamente __recomendável__ usar um DBMS para gerenciar um banco de
 - PostgreSQL
 - MySQL
 - Microsoft SQL Server
+
+
+</br>
+</br>
+
+## ACID 
+ACID é um acrônimo que representa as características essenciais que garantem a consistência, integridade e confiabilidade das transações em um sistema de gerenciamento de bancos de dados.
+
+</br
+
+__Atomicidade (Atomicity):__ garante que uma transação seja tratada como uma única unidade indivisível de trabalho. Se uma parte da transação falhar, toda a transação é revertida para o seu estado anterior. Ou seja, todas as operações da transação devem ser executadas com sucesso ou nenhuma delas deve ser executada.
+
+__Consistência (Consistency):__ garante que uma transação leve o banco de dados de um estado válido para outro estado válido. Ou seja, as regras de integridade dos dados devem ser preservadas antes e depois de uma transação.
+
+__Isolamento (Isolation):__ garante que várias transações possam ocorrer simultaneamente, sem que elas interfiram umas nas outras. Ou seja, as transações devem ser executadas de forma isolada, sem afetar outras transações em andamento.
+
+__Durabilidade (Durability):__ garante que uma vez que uma transação tenha sido confirmada, ela permaneça no banco de dados mesmo que ocorram falhas de hardware, software ou interrupções do sistema. Ou seja, todas as alterações realizadas durante a transação devem ser salvas permanentemente no banco de dados.
