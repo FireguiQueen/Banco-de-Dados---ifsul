@@ -17,7 +17,7 @@ As tabelas são a base para a organização e armazenamento de dados em um banco
 
 
 ## Chave primária
-A chave primária é uma ou mais colunas, cujo seu papel é identificar os valores de uma linha. No exemplo abaixo, nossa chave primária é identificada como "codigo". 
+A chave primária é uma ou mais colunas, cujo seu papel é identificar os valores de uma linha. No exemplo abaixo, nossa chave primária é identificada como "codigo". </br>
 Cada pessoa terá seu código, logo, temos uma chave primária que representa apenas uma linha, e esta chave se refere aos atributos (nome e idade).
 
 ![Exemplo-chave-primária](https://user-images.githubusercontent.com/98475125/229937635-e63008d9-96ab-4cfb-b040-79b81a603127.png)
