@@ -1,4 +1,4 @@
-# DBMS - Date Base Manage System _(PT-BR: SGBD - sistema de gerenciamento de banco de dados)
+# DBMS - Date Base Manage System _(PT-BR: SGBD - sistema de gerenciamento de banco de dados)_
 
 É um software para nós, os desenvolvedores, gerenciarmos nosso banco de dados através de uma interface gráfica boa e organizada. Através desta interface, O DBMS nos permite.: </br>
 _incluir, recuperar, consultar e alterar_ dados em um banco de dados. </br>
