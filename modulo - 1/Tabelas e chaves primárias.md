@@ -21,5 +21,5 @@ A chave primária é uma ou mais colunas, cujo seu papel é identificar os valor
 No exemplo abaixo, nossa chave primária é identificada como "codigo". 
 Temos uma pequena tabela com uma lista de países, e cada país é representado por uma ÚNICA chave-primária.. Ou seja, temos uma situação onde a chave primária identifica o atributo da coluna "países".
 
-![Exemplo-chave-primária-](https://user-images.githubusercontent.com/98475125/229938328-43f78233-f776-49f1-aaa5-41878e2d4da8.png)
+![Exemplo-chave-primária-](https://user-images.githubusercontent.com/98475125/229939050-740b8baa-deb8-4347-b411-2a2a4c80fc50.png)
 
