@@ -10,3 +10,14 @@ As tabelas são a base para a organização e armazenamento de dados em um banco
 ## Resumo
 * É criada para armazenar os dados
 * Cada tabela descreve um determinado assunto 
+
+
+</br>
+</br>
+
+
+## Chave primária
+A chave primária é uma coluna que identifica os valores de UMA ou MAIS linhas.
+Sendo assim, a chave primária pode ser.: 
+* Única: identifca apenas uma linha;
+* Não-única: identifica um conjunto de linhas.
