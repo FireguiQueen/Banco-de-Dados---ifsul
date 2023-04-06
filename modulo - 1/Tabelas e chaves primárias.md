@@ -45,7 +45,7 @@ Visões são objetos em bancos de dados relacionais que permitem aos usuários v
 </br>
 Em resumo, as visões são importantes porque permitem visualizar dados de forma mais específica e simplificada, além de poder aplicar filtros e restrições de segurança. Elas são úteis para criar tabelas virtuais com informações mais relevantes para determinado uso, sem a necessidade de alterar a estrutura da tabela original ou de se preocupar com a exibição de chaves estrangeiras. 
 
-</br> Então por exemplo, poderiamos criar uma view, onde irá mostrar uma determinada tabela, porém, apenas com as colunas de nossa escola.
+</br> Vamos supor que a coluna "B" possua informações confidênciais de um usuário, porém, precisamos compartilhar a tabela com pessoas novas na empresa. A view seria de extrema importância, pois poderíamos fazer uma view que pega toda a tabela, e retira a coluna B.
 
 ![view-tb](https://user-images.githubusercontent.com/98475125/230243302-25cfa8e1-fe36-42e9-96bf-524722a2e67b.png)
 
