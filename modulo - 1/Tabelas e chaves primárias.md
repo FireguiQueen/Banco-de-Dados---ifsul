@@ -35,3 +35,12 @@ Veja o exemplo abaixo.: </br>
 - Quando pegamos as chaves primárias da tabela "países" e jogamos essas chaves na tabela "pessoas", essas mesmas chaves primárias da tabela "países" irão se tornar chaves estrangeiras.
 
 ![ex--](https://user-images.githubusercontent.com/98475125/230240764-a7e18056-f941-45d8-a669-fb78415573dd.png)
+
+
+</br>
+</br>
+
+## Views 
+Visões são objetos em bancos de dados relacionais que permitem aos usuários visualizar dados de uma ou mais tabelas de forma específica, sem alterar a estrutura da tabela original. São essencialmente consultas armazenadas que podem ser usadas como tabelas virtuais para simplificar a maneira como os usuários interagem com o banco de dados. As visões não armazenam dados por si só, apenas fornecem uma visualização específica dos dados quando são consultadas.
+</br>
+Em resumo, as visões são importantes porque permitem visualizar dados de forma mais específica e simplificada, além de poder aplicar filtros e restrições de segurança. Elas são úteis para criar tabelas virtuais com informações mais relevantes para determinado uso, sem a necessidade de alterar a estrutura da tabela original ou de se preocupar com a exibição de chaves estrangeiras.
