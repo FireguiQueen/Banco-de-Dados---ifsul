@@ -16,10 +16,20 @@ As tabelas são a base para a organização e armazenamento de dados em um banco
 </br>
 
 
-## Chave primária
-A chave primária é uma ou mais colunas, cujo seu papel é identificar os valores de uma linha.</br>
+## Primary key (PK)
+A chave primária é uma ou mais colunas, cujo seu papel é identificar unicamente uma linha em uma tabela.</br>
 No exemplo abaixo, nossa chave primária é identificada como "codigo". 
 Temos uma pequena tabela com uma lista de países, e cada país é representado por uma ÚNICA chave-primária. Ou seja, temos uma coluna chamada "países", cada linha desta coluna recebe um país, e este país é representado por um identificador, uma chave primária.  
 
 ![Exemplo-chave-primária-](https://user-images.githubusercontent.com/98475125/229939050-740b8baa-deb8-4347-b411-2a2a4c80fc50.png)
 
+
+</br>
+
+## Foreign key (FK)
+A chave estrangeira são de extrema importância para fazermos o relacionamento entre as tabelas.
+De maneira simplificada, a chave estrangeira na verdade é uma chave primária, porém em __outra__ tabela. Isto significa que quando uma chave primária de uma tabela é usada em outra tabela para estabelecer essa referência, ela se torna uma chave estrangeira na nova tabela. 
+
+Veja o exemplo abaixo.: </br>
+- Temos duas tabelas, ambas possuem suas chaves primárias. 
+- Quando pegamos as chaves primárias da tabela países e jogamos essas chaves na tabela "pessoas" 
