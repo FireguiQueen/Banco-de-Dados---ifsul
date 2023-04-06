@@ -43,4 +43,7 @@ Veja o exemplo abaixo.: </br>
 ## Views 
 Visões são objetos em bancos de dados relacionais que permitem aos usuários visualizar dados de uma ou mais tabelas de forma específica, sem alterar a estrutura da tabela original. São essencialmente consultas armazenadas que podem ser usadas como tabelas virtuais para simplificar a maneira como os usuários interagem com o banco de dados. As visões não armazenam dados por si só, apenas fornecem uma visualização específica dos dados quando são consultadas.
 </br>
-Em resumo, as visões são importantes porque permitem visualizar dados de forma mais específica e simplificada, além de poder aplicar filtros e restrições de segurança. Elas são úteis para criar tabelas virtuais com informações mais relevantes para determinado uso, sem a necessidade de alterar a estrutura da tabela original ou de se preocupar com a exibição de chaves estrangeiras.
+Em resumo, as visões são importantes porque permitem visualizar dados de forma mais específica e simplificada, além de poder aplicar filtros e restrições de segurança. Elas são úteis para criar tabelas virtuais com informações mais relevantes para determinado uso, sem a necessidade de alterar a estrutura da tabela original ou de se preocupar com a exibição de chaves estrangeiras. 
+
+</br> Então por exemplo, poderiamos criar uma view, onde irá mostrar uma determinada tabela, porém, apenas com as colunas de nossa escola.
+
