@@ -32,6 +32,6 @@ De maneira simplificada, a chave estrangeira na verdade é uma chave primária, 
 
 Veja o exemplo abaixo.: </br>
 - Temos duas tabelas, ambas possuem suas chaves primárias. 
-- Quando pegamos as chaves primárias da tabela países e jogamos essas chaves na tabela "pessoas", essas mesmas chaves primárias da tabela "países" irão se tornar chaves estrangeiras.
+- Quando pegamos as chaves primárias da tabela "países" e jogamos essas chaves na tabela "pessoas", essas mesmas chaves primárias da tabela "países" irão se tornar chaves estrangeiras.
 
 ![ex--](https://user-images.githubusercontent.com/98475125/230240764-a7e18056-f941-45d8-a669-fb78415573dd.png)
