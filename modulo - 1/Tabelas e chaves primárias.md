@@ -47,5 +47,6 @@ Em resumo, as visões são importantes porque permitem visualizar dados de forma
 
 </br> Então por exemplo, poderiamos criar uma view, onde irá mostrar uma determinada tabela, porém, apenas com as colunas de nossa escola.
 
-![view-tb](https://user-images.githubusercontent.com/98475125/230243082-105146f1-644f-441a-a9b4-e80f241cdf2b.png)
+![view-tb](https://user-images.githubusercontent.com/98475125/230243302-25cfa8e1-fe36-42e9-96bf-524722a2e67b.png)
+
 
