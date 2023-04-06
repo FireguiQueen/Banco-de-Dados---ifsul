@@ -27,11 +27,11 @@ Temos uma pequena tabela com uma lista de países, e cada país é representado 
 </br>
 
 ## Foreign key (FK)
-A chave estrangeira são de extrema importância para fazermos o relacionamento entre as tabelas.
+As chaves estrangeiras são de extrema importância para fazermos o relacionamento entre as tabelas.
 De maneira simplificada, a chave estrangeira na verdade é uma chave primária, porém em __outra__ tabela. Isto significa que quando uma chave primária de uma tabela é usada em outra tabela para estabelecer essa referência, ela se torna uma chave estrangeira na nova tabela. 
 
 Veja o exemplo abaixo.: </br>
 - Temos duas tabelas, ambas possuem suas chaves primárias. 
-- Quando pegamos as chaves primárias da tabela países e jogamos essas chaves na tabela "pessoas" 
+- Quando pegamos as chaves primárias da tabela países e jogamos essas chaves na tabela "pessoas", essas mesmas chaves primárias da tabela "países" irão se tornar chaves estrangeiras.
 
 ![ex--](https://user-images.githubusercontent.com/98475125/230240764-a7e18056-f941-45d8-a669-fb78415573dd.png)
