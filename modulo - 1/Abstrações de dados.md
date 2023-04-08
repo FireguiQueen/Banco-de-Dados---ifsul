@@ -25,9 +25,12 @@ Entidades: _professores_, _alunos_ e _disciplinas_
 
 </br>
 
-* __Modelo lógico__
+### __Modelo lógico__
 
 
-* __Modelo físico__
+
+#### __Modelo físico__
+
+
 
 
