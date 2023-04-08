@@ -7,8 +7,8 @@ _________________________________________________________________
 ### __Modelo conceitual__ </br>
 O modelo conceitual é a __primeira__ fase da modelagem, onde iremos representar dados do mundo real por meio de uma visão simplificada dos dados e seus relacionamentos. Vamos precisar entender o que o cliente precisa e assim saberemos como modelar nosso banco de dados através das informações que o nosso cliente nos passou. </br>
 Neste modelo, iremos ver todos os dados que serão necessários, vamos precisar saber quais dados serão relacionados. </br> </br>
-Para fazermos tudo isso, usaremos o diagrama ER (entidade-relaciomanto).
-O modelo ER é baseado em três conceitos fundamentais: _entidades, relacionamentos e atributos_. </br> As entidades representam objetos do mundo real (como pessoas, produtos, pedidos, etc.) que são relevantes para o sistema a ser modelado. Os relacionamentos representam as associações entre as entidades (como "tem", "é dono de", "trabalha para", etc.). E os atributos representam as características ou propriedades das entidades (como nome, número de telefone, preço, etc.).
+Para fazermos tudo isso, usaremos o diagrama ER (entidade-relaciomanto).</br>
+O modelo ER é baseado em três conceitos fundamentais: _entidades, relacionamentos e atributos_.  As entidades representam objetos do mundo real (como pessoas, produtos, pedidos, etc.) que são relevantes para o sistema a ser modelado. Os relacionamentos representam as associações entre as entidades (como "tem", "é dono de", "trabalha para", etc.). E os atributos representam as características ou propriedades das entidades (como nome, número de telefone, preço, etc.).
 
 
 #### Resumo
