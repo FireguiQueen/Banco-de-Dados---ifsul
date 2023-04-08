@@ -10,6 +10,12 @@ Neste modelo, iremos ver todos os dados que serão necessários, vamos precisar 
 Para fazermos tudo isso, usaremos o diagrama ER (entidade-relaciomanto).</br>
 O modelo ER é baseado em três conceitos fundamentais: _entidades, relacionamentos e atributos_.  As entidades representam objetos do mundo real (como pessoas, produtos, pedidos, etc.) que são relevantes para o sistema a ser modelado. Os relacionamentos representam as associações entre as entidades (como "tem", "é dono de", "trabalha para", etc.). E os atributos representam as características ou propriedades das entidades (como nome, número de telefone, preço, etc.).
 
+Exemplo sistema escolar:
+Neste banco de dados iremos armazenar quem são os professores, alunos e quais são as disciplinas.
+Sendo assim, temos o seguinte modelo.:
+Entidades: _professores_, _alunos_ e _disciplinas_ 
+
+
 
 #### Resumo
 * Independente do DBMS (ainda não iremos usar um software DBMS, pois iremos usar diagramas);
