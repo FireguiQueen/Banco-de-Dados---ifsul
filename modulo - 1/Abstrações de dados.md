@@ -24,6 +24,7 @@ Entidades: _professores_, _alunos_ e _disciplinas_
 * Modelagem inicial, permitindo que o cliente compreenda o que está sendo feito.
 
 </br>
+</br>
 
 ### __Modelo lógico__
 
