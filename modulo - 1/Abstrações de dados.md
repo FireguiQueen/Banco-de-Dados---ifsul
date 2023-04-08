@@ -4,9 +4,9 @@ Assim como no mundo de desenvolvimento de software, para estruturarmos um banco 
 * __Modelo conceitual__ </br>
 
 
-* Modelo lógico
+* __Modelo lógico__
 
 
-* Modelo físico
+* __Modelo físico__
 
 
