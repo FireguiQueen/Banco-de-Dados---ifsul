@@ -7,7 +7,7 @@ Neste modelo, iremos ver todos os dados que serão necessários em nosso banco d
 O modelo conceitual é uma modelagem incial, sendo assim, o nosso cliente também será capaz de compreender o que está sendo feito nestam modelagem.
 
 ##### Resumo
-* Independente do DBMS (pois iremos usar diagramas)
+--> Independente do DBMS (pois iremos usar diagramas)
 
 
 * __Modelo lógico__
