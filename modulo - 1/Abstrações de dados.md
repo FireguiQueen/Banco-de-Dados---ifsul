@@ -21,8 +21,9 @@ Entidades: _professores_, _alunos_ e _disciplinas_
 * Independente do DBMS (ainda não iremos usar um software DBMS, pois iremos usar diagramas);
 * Modelagem inicial, permitindo que o cliente compreenda o que está sendo feito;
 * Representação abstrata dos dados do mundo real em um diagrama simplificado;
-Modelagem inicial, permitindo que o cliente compreenda o que está sendo feito.
+* Modelagem inicial, permitindo que o cliente compreenda o que está sendo feito.
 
+</br>
 
 * __Modelo lógico__
 
