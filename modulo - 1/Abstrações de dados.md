@@ -14,7 +14,7 @@ Exemplo sistema escolar:
 Neste banco de dados iremos armazenar quem são os professores e quais são as disciplinas.
 Sendo assim, temos o seguinte modelo.:
 Entidades: _professores_ e _disciplinas_ 
-Relaciomanetos: 
+Relaciomanetos: professores 
 
 
 
