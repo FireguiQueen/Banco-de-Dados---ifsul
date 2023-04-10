@@ -52,7 +52,6 @@ professores __dão__ aula de 'x' disciplina
             </table>
 
 
-
 #### Resumo
 * Independente do DBMS (ainda não iremos usar um software DBMS, pois iremos usar diagramas);
 * Modelagem inicial, permitindo que o cliente compreenda o que está sendo feito;
