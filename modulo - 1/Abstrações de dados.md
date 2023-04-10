@@ -26,6 +26,10 @@ _professores_ e _disciplinas_
 "Identificador" e "nome da disciplina"
 
 ![Abstração - conceitual - diagrama](https://user-images.githubusercontent.com/98475125/231009300-0fb7e110-f28e-449a-9cf2-d36fdf25e9f2.png)
+Neste modelo acima, temos todos os dados representados por um diagrama. 
+O retângulo representa identidades, ou seja, "professores" e "disciplinas"
+O losango representa a relação que essas duas entidades possuem. 
+E por final, o círculo em branco representa atributos de uma entidade, e o círculo preenchido pela cor preta representa que ele é um atributo identificador, ou seja, uma chave primária. 
 
 <table>
     <thead> 
