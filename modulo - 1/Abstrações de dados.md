@@ -25,31 +25,30 @@ professores __dão__ aula de 'x' disciplina
 
 * Atributos: 
 "CPF", "nome", "turno" e "disciplina"
-            <table>
-                <caption>Professores</caption>
-                <thead> 
-                    <tr>
-                        <td>CPF</td>
-                        <td>Nome</td>
-                        <td>Turno</td>
-                        <td>Disciplina</td>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td> 083.146.417-80 </td>    
-                        <td> Jorge Augusto </td>    
-                        <td> manhã </td>
-                        <td> álgebra </td>
-                    </tr>   
-                    <tr>
-                        <td> 081.136.657-80 </td>    
-                        <td> Adrian Butivesk </td>    
-                        <td> noite </td>
-                        <td> Inglês </td>
-                    </tr>
-                </tbody>    
-            </table>
+<table>
+    <thead> 
+        <tr>
+            <td>CPF</td>
+            <td>Nome</td>
+            <td>Turno</td>
+            <td>Disciplina</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 083.146.417-80 </td>    
+            <td> Jorge Augusto </td>    
+            <td> manhã </td>
+            <td> álgebra </td>
+        </tr>   
+        <tr>
+            <td> 081.136.657-80 </td>    
+            <td> Adrian Butivesk </td>    
+            <td> noite </td>
+            <td> Inglês </td>
+        </tr>
+    </tbody>    
+</table>
 
 
 #### Resumo
