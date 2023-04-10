@@ -36,11 +36,11 @@ professores __dão__ aula de 'x' disciplina
                     </tr>
                 </thead>
                 <tbody>
-                    <td>
-                        <tr> 083.146.417-80 </tr>    
-                        <tr> 083.146.417-80 </tr>    
-                        <tr> 083.146.417-80 </tr>
-                    </td>    
+                    <tr>
+                        <td> 083.146.417-80 </td>    
+                        <td> 083.146.417-80 </td>    
+                        <td> 083.146.417-80 </td>
+                    </tr>    
             </table>
 
 
