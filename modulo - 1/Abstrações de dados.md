@@ -11,10 +11,32 @@ Para fazermos tudo isso, usaremos o diagrama ER (entidade-relaciomanto).</br>
 O modelo ER é baseado em três conceitos fundamentais: _entidades, relacionamentos e atributos_.  As entidades representam objetos do mundo real (como pessoas, produtos, pedidos, etc.) que são relevantes para o sistema a ser modelado. Os relacionamentos representam as associações entre as entidades (como "tem", "é dono de", "trabalha para", etc.). E os atributos representam as características ou propriedades das entidades (como nome, número de telefone, preço, etc.).
 
 Exemplo sistema escolar:
-Neste banco de dados iremos armazenar quem são os professores e quais são as disciplinas.
+Neste banco de dados iremos armazenar quem são os professores e quais são suas disciplinas.
+Vamos supor, que cada professor possua apenas conhecimento de uma única disciplina.
 Sendo assim, temos o seguinte modelo.:
-Entidades: _professores_ e _disciplinas_ 
-Relaciomanetos: professores 
+
+* Entidades: </br>
+_professores_ e _disciplinas_ 
+
+</br>
+
+* Relacionamentos: </br>
+professores __dão__ aula de 'x' disciplina
+
+* Atributos: </br>
+"CPF", "nome"
+            <table>
+                <caption>Professores</caption>
+                <thead> 
+                    <tr>
+                        <td>CPF</td>
+                        <td>Nome</td>
+                        <td>Turno</td>
+                        <td>Disciplina</td>
+                    </tr>
+                </thead>
+                <tbody>
+                
 
 
 
