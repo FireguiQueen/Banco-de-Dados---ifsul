@@ -25,6 +25,9 @@ professores __dão__ aula de 'x' disciplina
 
 * Atributos: 
 "CPF", "nome", "turno" e "disciplina"
+
+![Abstração - conceitual - diagrama](https://user-images.githubusercontent.com/98475125/231009300-0fb7e110-f28e-449a-9cf2-d36fdf25e9f2.png)
+
 <table>
     <thead> 
         <tr>
