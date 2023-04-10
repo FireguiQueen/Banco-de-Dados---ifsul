@@ -24,7 +24,7 @@ _professores_ e _disciplinas_
 professores __dão__ aula de 'x' disciplina
 
 * Atributos: 
-"CPF", "nome"
+"CPF", "nome", "turno" e "disciplina"
             <table>
                 <caption>Professores</caption>
                 <thead> 
