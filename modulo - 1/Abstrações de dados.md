@@ -31,6 +31,19 @@ O retângulo representa identidades, ou seja, "professores" e "disciplinas"
 O losango representa a relação que essas duas entidades possuem. 
 E por final, o círculo em branco representa atributos de uma entidade, e o círculo preenchido pela cor preta representa que ele é um atributo identificador, ou seja, uma chave primária. 
 
+
+
+#### Resumo
+* Independente do DBMS (ainda não iremos usar um software DBMS, pois iremos usar diagramas);
+* Modelagem inicial, permitindo que o cliente compreenda o que está sendo feito;
+* Representação abstrata dos dados do mundo real em um diagrama simplificado;
+* Modelagem inicial, permitindo que o cliente compreenda o que está sendo feito.
+
+</br>
+</br>
+
+### __Modelo lógico__
+
 <table>
     <thead> 
         <tr>
@@ -78,20 +91,6 @@ E por final, o círculo em branco representa atributos de uma entidade, e o cír
         </tr>           
     </tbody>    
 </table>
-
-
-#### Resumo
-* Independente do DBMS (ainda não iremos usar um software DBMS, pois iremos usar diagramas);
-* Modelagem inicial, permitindo que o cliente compreenda o que está sendo feito;
-* Representação abstrata dos dados do mundo real em um diagrama simplificado;
-* Modelagem inicial, permitindo que o cliente compreenda o que está sendo feito.
-
-</br>
-</br>
-
-### __Modelo lógico__
-
-
 
 ### __Modelo físico__
 
