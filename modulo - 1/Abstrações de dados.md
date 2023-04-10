@@ -34,9 +34,8 @@ professores __dão__ aula de 'x' disciplina
                         <td>Turno</td>
                         <td>Disciplina</td>
                     </tr>
-                </thead>
-                <tbody>
-                
+                </thead>    
+            </table>
 
 
 
