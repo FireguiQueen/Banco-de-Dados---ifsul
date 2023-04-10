@@ -38,9 +38,17 @@ professores __dão__ aula de 'x' disciplina
                 <tbody>
                     <tr>
                         <td> 083.146.417-80 </td>    
-                        <td> 083.146.417-80 </td>    
-                        <td> 083.146.417-80 </td>
-                    </tr>    
+                        <td> Jorge Augusto </td>    
+                        <td> manhã </td>
+                        <td> álgebra </td>
+                    </tr>   
+                    <tr>
+                        <td> 081.136.657-80 </td>    
+                        <td> Adrian Butivesk </td>    
+                        <td> noite </td>
+                        <td> Inglês </td>
+                    </tr>
+                </tbody>    
             </table>
 
 
