@@ -15,16 +15,15 @@ Neste banco de dados iremos armazenar quem são os professores e quais são suas
 Vamos supor, que cada professor possua apenas conhecimento de uma única disciplina.
 Sendo assim, temos o seguinte modelo.:
 
-* Entidades: </br>
+* __Entidades:__ </br>
 _professores_ e _disciplinas_ 
 
-</br>
+* __Relacionamentos:__ </br>
+'x' professor dá aula de 'x' disciplina
 
-* Relacionamentos: </br>
-professores __dão__ aula de 'x' disciplina
-
-* Atributos: 
-"CPF", "nome", "turno" e "disciplina"
+* __Atributos:__ 
+"CPF", "nome", "turno" e "disciplina" </br>
+"Identificador" e "nome da disciplina"
 
 ![Abstração - conceitual - diagrama](https://user-images.githubusercontent.com/98475125/231009300-0fb7e110-f28e-449a-9cf2-d36fdf25e9f2.png)
 
