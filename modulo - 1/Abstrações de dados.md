@@ -21,7 +21,7 @@ _professores_ e _disciplinas_
 * __Relacionamentos:__ </br>
 'x' professor dá aula de 'x' disciplina
 
-* __Atributos:__ 
+* __Atributos:__ </br>
 "CPF", "nome", "turno" e "disciplina" </br>
 "Identificador" e "nome da disciplina"
 
