@@ -23,7 +23,7 @@ _professores_ e _disciplinas_
 * Relacionamentos: </br>
 professores __dão__ aula de 'x' disciplina
 
-* Atributos: </br>
+* Atributos: 
 "CPF", "nome"
             <table>
                 <caption>Professores</caption>
