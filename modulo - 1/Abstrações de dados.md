@@ -44,6 +44,11 @@ E por final, o círculo em branco representa atributos de uma entidade, e o cír
 
 ### __Modelo lógico__
 
+
+#### Resumo
+* Independente do DBMS (ainda não iremos usar um software DBMS, mas já devemos pensar em qual será utilizado);
+
+
 <table>
     <thead> 
         <tr>
