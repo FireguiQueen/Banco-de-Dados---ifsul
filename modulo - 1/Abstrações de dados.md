@@ -108,8 +108,8 @@ Também já pode ser feito uma pequena simulação de como os dados irão se com
 
 
 ### __Modelo físico__
-
-
+É a última fase da modelagem.
+Nós iremos fazer uma implementação no software DBMS escolhido, conhecendo suas vantagens, desvantagens e limites em relação a outros DBMS.
 
 #### Resumo
 * Relaciona-se diretamente com o software DBMS (já devemos definir DBMS qual iremos usar, e modelar pensando no software);
