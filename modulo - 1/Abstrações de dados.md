@@ -45,9 +45,13 @@ E por final, o círculo em branco representa atributos de uma entidade, e o cír
 ### __Modelo lógico__
 O modelo lógico é a segunda fase de modelagem, este modelo deriva do modelo conceitual criado anteriormente. Vamos detalhar mais o modelo conceitual através de texto, indicando as chaves primárias e as chaves estrangeiras.
 
+Professores: (__CPF__, nome, turno, disciplina); </br>
+Disciplinas: (__ID__, nome da disciplina);
+
 
 #### Resumo
 * Independente do DBMS (ainda não iremos usar um software DBMS, mas já devemos pensar em qual será utilizado);
+* Mais detalhes ao modelo conceitual;
 * Vamos definir o tipo de dado de cada atributo
 
 <table>
