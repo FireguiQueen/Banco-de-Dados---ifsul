@@ -111,4 +111,8 @@ Também já pode ser feito uma pequena simulação de como os dados irão se com
 
 
 
+#### Resumo
+* Relaciona-se diretamente com o software DBMS (já devemos definir DBMS qual iremos usar, e modelar pensando no software);
+* 
+
 
