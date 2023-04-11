@@ -48,12 +48,9 @@ O modelo lógico é a segunda fase de modelagem, este modelo deriva do modelo co
 Professores: (__CPF__, nome, turno, disciplina); </br>
 Disciplinas: (__ID__, nome da disciplina);
 
+</br>
 
-#### Resumo
-* Independente do DBMS (ainda não iremos usar um software DBMS, mas já devemos pensar em qual será utilizado);
-* Mais detalhes ao modelo conceitual;
-* Vamos definir o tipo de dado de cada atributo
-
+Também já pode ser feito uma pequena simulação de como os dados irão se comportar em nosso banco de dados.:
 <table>
     <thead> 
         <tr>
@@ -101,6 +98,14 @@ Disciplinas: (__ID__, nome da disciplina);
         </tr>           
     </tbody>    
 </table>
+
+
+#### Resumo
+* Independente do DBMS (ainda não iremos usar um software DBMS, mas já devemos pensar em qual será utilizado);
+* Mais detalhes ao modelo conceitual;
+* Vamos definir o tipo de dado de cada atributo
+
+
 
 ### __Modelo físico__
 
