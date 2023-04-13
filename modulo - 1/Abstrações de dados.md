@@ -113,6 +113,16 @@ Nós iremos fazer uma implementação no software DBMS escolhido, conhecendo sua
 
 #### Resumo
 * Relaciona-se diretamente com o software DBMS (já devemos definir DBMS qual iremos usar, e modelar pensando no software);
-* 
+
+</br>
+
+_________________________________________________________________________
+
+## Softwares de diagrama ER 
+Abaixo estão alguns softwares onde você pode criar diagramas de entidade-relacionamento.
+Podendo colocar as entidades, seus atributos e relacionamentos de maneira mais prática e mais bem trabalhada. 
+
+* DIA
+* Lucidchart
 
 
