@@ -122,7 +122,7 @@ _________________________________________________________________________
 Abaixo estão alguns softwares onde você pode criar diagramas de entidade-relacionamento.
 Podendo colocar as entidades, seus atributos e relacionamentos de maneira mais prática e mais bem trabalhada. 
 
-* DIA
-* Lucidchart
+* DIA (<a href="http://dia-installer.de/">acesse aqui</a>)
+* Lucidchart (<a href="https://www.lucidchart.com/">acesse aqui</a>)
 
 
